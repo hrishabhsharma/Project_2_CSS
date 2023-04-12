@@ -101,6 +101,9 @@ a{
 .list input {
     width: 30px;
     height: 30px;
+    background-color: #C2C2C2;
+    border-radius: 4px;
+    color: #404040;
 }
 
 .list label{
